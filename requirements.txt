@@ -4,3 +4,4 @@ peft
 accelerate
 bitsandbytes
 rouge_score
+pydantic
