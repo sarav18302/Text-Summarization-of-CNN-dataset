@@ -18,7 +18,7 @@
 - **Hardware Setup:** Used Google Colab with a single GPU (T4/A100 depending on availability), ~12–16 GB GPU VRAM, and ~12 GB system RAM.  
 
 - **Execution Time:**  
-  - Visualized in notebook  
+  - Visualized in notebook (task 3) 
 
 - **Key Bottleneck:** Loading multiple models simultaneously caused frequent Colab crashes due to GPU/CPU memory limits.  
 
